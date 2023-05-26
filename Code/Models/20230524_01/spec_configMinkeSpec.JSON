@@ -1,0 +1,13 @@
+{
+    "spectrogram": {
+	"rate": "12000 Hz", 
+        "window": "0.0853 s",
+        "step": "0.00853 s",
+        "freq_min": "750 Hz",
+        "freq_max": "2500 Hz",
+        "window_func": "hamming",
+        "type": "MagSpectrogram",
+        "duration": "4 s"
+    }
+}
+
